@@ -1,0 +1,54 @@
+body{ 
+    font: normal 18px Courier, monospace;
+    background-color: rgba(36, 189, 189, 0.705);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+header{
+    background-color: rgba(25, 105, 105, 0.705);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    border: 10px solid black;
+}
+h1{
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    margin-block-start: 0.em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+
+input{
+    font: normal 20px Courier, monospace;
+    width: 120px ;
+}
+div#res{
+    margin: 20px 0px 20px 0px
+
+}
+div#resSub{
+    margin: 20px 0px 20px 0px    
+}
+div#resMult{
+    margin: 20px 0px 20px 0px    
+}
+div#resDiv{
+    margin: 20px 0px 20px 0px    
+}
+div#resEl{
+    margin: 20px 0px 20px 0px    
+}
+div#resRaiz{
+    margin: 20px 0px 20px 0px    
+}
